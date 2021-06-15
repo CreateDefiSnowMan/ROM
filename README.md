@@ -29,7 +29,7 @@
 *此模型没有让参与者承担🔥损失，所以分账户操作必然是活跃的
 
 | SNOWMANWORLD | Center-aligned |
-| :--- :        |     :---:      |
+|  :---        |     :---:      |
 | git status   | git status     |
 | git diff     | git diff       |
 | git diff     | git diff       |
