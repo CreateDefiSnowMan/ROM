@@ -28,7 +28,7 @@
 *全民分账号，有效账户可以在后期获取空投等福利
 *此模型没有让参与者承担🔥损失，所以分账户操作必然是活跃的
 
-| SNOWWORLD | Center-aligned |
+| SNOWMANWORLD | Center-aligned |
 | :---         |     :---:      |
 | git status   | git status     |
 | git diff     | git diff       |
